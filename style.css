@@ -1,0 +1,30 @@
+html {
+  background-image: url(img/BG4.jpg);
+  background-size: cover;
+}
+
+body {
+  margin: 25px auto;
+  padding: 50px;
+  width: 400px;
+  background-color: rgb(255, 255, 255, 0.8);
+  background-size: cover;
+  border: black solid 5px;
+  border-radius: 15px;
+}
+
+.hiddenIMG {
+  color: black;
+}
+
+img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+h2, p{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 552;
+  font-style: italic;
+}
